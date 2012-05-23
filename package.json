@@ -1,0 +1,36 @@
+{
+  "name": "factual",
+  "description": "Library for interfacing with Factual's API",
+  "version": "0.1",
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "index.js",
+  "author": {
+    "name": "Chuck Pearce",
+    "email": "chuck.pearce@lodestarbpm.com",
+    "url": "http://www.lodestarbpm.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/olalonde/node-factual.git"
+  },
+  "homepage": "https://github.com/olalonde/node-factual",
+  "dependencies": {
+    "oauth": ">=0.9.0 <1.0.0"
+  },
+  "_id": "factual@0.1",
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "_engineSupported": true,
+  "_npmVersion": "1.1.9",
+  "_nodeVersion": "v0.6.13",
+  "_defaultsLoaded": true,
+  "dist": {
+    "shasum": "334410f219469e0d4f538cd48e5ed454c3f6d7cb"
+  },
+  "_from": "factual"
+}
