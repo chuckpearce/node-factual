@@ -11,6 +11,7 @@ Node.js module for interfacing with [Factual](http://www.factual.com)'s API v3
 
 # Examples #
 
+```javascript
 var factual = require("factual").createClient({
   consumer_key: "KEY", 
   consumer_secret: "SECRET"
