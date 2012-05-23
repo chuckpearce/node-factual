@@ -1,7 +1,7 @@
 {
   "name": "factual",
   "description": "Library for interfacing with Factual's API",
-  "version": "0.1",
+  "version": "0.1.0",
   "directories": {
     "lib": "./lib"
   },
@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/olalonde/node-factual.git"
+    "url": "git://github.com/chuckpearce/node-factual.git"
   },
-  "homepage": "https://github.com/olalonde/node-factual",
+  "homepage": "https://github.com/chuckpearce/node-factual",
   "dependencies": {
     "oauth": ">=0.9.0 <1.0.0"
   },
-  "_id": "factual@0.1",
+  "_id": "factual@0.1.0",
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {

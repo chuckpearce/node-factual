@@ -17,7 +17,7 @@ var factual = require("factual").createClient({
   consumer_secret: "SECRET"
 });
 
-factual.search({name:"McDonalds",address:"10451 Santa Monica Blvd",region:"CA",postcode:"90025"}, function(error, data) {});
+factual.resolve({name:"McDonalds",address:"10451 Santa Monica Blvd",region:"CA",postcode:"90025"}, function(error, data) {});
 
 factual.read({filters: {country: "US"}}, function(error, data) {});
 
