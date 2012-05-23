@@ -30,6 +30,7 @@ factual.crosswalk({factual_id: "97598010-433f-4946-8fd5-4a6dd1639d77"}, function
 factual.reverseGeocode(34.06021,-118.41828, function(error, data) {});
 
 factual.geopulse(34.06021,-118.41828, "commercial_profile,income,race", function(error, data) {});
+```javascript
 
 # References #
 
